@@ -1,4 +1,4 @@
-## Changelog for PixelOS Begonia [24/05/2022]
+## Changelog for PixelOS Begonia [24/04/2022]
 
 - begonia: DDGbrowser: Add DuckDuckGo Browser
 - begonia: SimpleGallery: Add SimpleGallery App
