@@ -1,4 +1,4 @@
-# 29-Apr-2022
+#### 29-Apr-2022
 
 - Added quick setting tiles for caffeine, heads up, sync, ambient display, Always on display, USB tether quick settings tiles, live display
 - Fixed some issues with advanced reboot
@@ -21,8 +21,9 @@
 - Reduced logging and silenced some log spam
 - Added Modded Pixel Launcher 
 - Enabled Call recording support on Google Dialer
+
 ===========================================================================
-# 24-Apr-2022
+#### 24-Apr-2022
 
 - begonia: DDGbrowser: Add DuckDuckGo Browser
 - begonia: SimpleGallery: Add SimpleGallery App
