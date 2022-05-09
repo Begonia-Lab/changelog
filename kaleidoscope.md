@@ -5,3 +5,4 @@
 - vayu: props: Enable Video Distribution Profile (VDP) on IMS
 - vayu: rro_overlays: Update refresh rate flags
 - vayu: SimpleGallery: Add SimpleGallery App
+- Switched to latest Mochi kernel
